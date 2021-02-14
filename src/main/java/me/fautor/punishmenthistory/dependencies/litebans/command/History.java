@@ -12,7 +12,7 @@ import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 import org.json.simple.JSONObject;
 import org.json.simple.JSONValue;
-//import sun.misc.IOUtils;
+import sun.misc.IOUtils;
 
 import java.net.URL;
 import java.sql.PreparedStatement;
