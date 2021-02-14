@@ -30,7 +30,7 @@ public class Main extends JavaPlugin {
 
         new ConfigFile().load(this);
 
-//        new DependencyManager(this);
+        new DependencyManager(this);
         new Register(this);
 
         litebansMenu = new me.fautor.punishmenthistory.dependencies.litebans.Menu(this);
