@@ -32,7 +32,7 @@ public class Register {
 
         Statics.disablePlugin(main);
         enabled();
-//        Dependencies.getBooleans();
+        Dependencies.getBooleans();
     }
 
     /**
